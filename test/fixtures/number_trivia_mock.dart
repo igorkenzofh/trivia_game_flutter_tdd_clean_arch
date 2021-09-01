@@ -1,0 +1,8 @@
+const numberTriviaMock = """ 
+{
+  "text":"Test Text.",
+  "number": 1,
+  "found": true,
+  "type" : "trivia"
+}
+""";
