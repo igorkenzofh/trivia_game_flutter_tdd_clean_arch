@@ -8,6 +8,8 @@ This is the repository for the flutter app built using clean architecture and te
 
 [Website - Reso Coder](https://resocoder.com/category/tutorials/flutter/tdd-clean-architecture/)
 
+[Diff Versions which inspired me](https://github.com/rhutikcodes/Number-Trivia) (https://github.com/akshayspeaks/reso-number-trivia)
+
 #### Dependencies
 
 - [**BLoC**](https://pub.dev/packages/flutter_bloc), Widgets that make it easy to integrate blocs and cubits into Flutter
