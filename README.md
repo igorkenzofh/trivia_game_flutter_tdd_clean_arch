@@ -8,7 +8,10 @@ This is the repository for the flutter app built using clean architecture and te
 
 [Website - Reso Coder](https://resocoder.com/category/tutorials/flutter/tdd-clean-architecture/)
 
-[Diff Versions which inspired me](https://github.com/rhutikcodes/Number-Trivia) (https://github.com/akshayspeaks/reso-number-trivia)
+[Rhutike Version](https://github.com/rhutikcodes/Number-Trivia/) 
+
+[Akshay Version](https://github.com/akshayspeaks/reso-number-trivia)
+
 
 #### Dependencies
 
