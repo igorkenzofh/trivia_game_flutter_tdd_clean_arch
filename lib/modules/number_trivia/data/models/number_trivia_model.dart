@@ -7,7 +7,8 @@ class NumberTriviaModel extends NumberTriviaEntity {
       : super(text: text, number: number);
 
   factory NumberTriviaModel.fromJson(Map<String, dynamic> json) {
-    return NumberTriviaModel(text: json['text'], number: json['number'] as num);
+    return NumberTriviaModel(
+        text: json['text'], number: (json['number'] as num).toInt());
   }
 
   Map<String, dynamic> toJson() {
