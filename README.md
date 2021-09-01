@@ -16,9 +16,6 @@ This is the repository for the flutter app built using clean architecture and te
 - [**BLoC Test**](https://pub.dev/packages/bloc_test), A Dart package that makes testing blocs and cubits easy.
     > bloc_test: ^8.1.0
 
-- [**Connectivity**](https://pub.dev/packages/connectivity), This plugin allows Flutter apps to discover network connectivity and configure themselves accordingly. It can distinguish between cellular vs WiFi connection.
-    > connectivity: ^3.0.1
-
 - [**Dartz**](https://pub.dev/packages/dartz), Functional programming in Dart
     > dartz: ^0.9.2
 
